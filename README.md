@@ -28,8 +28,9 @@
 - CSS-in-JS ([Styled Components](https://www.styled-components.com/) и [Emotion](https://emotion.sh/))
 
 ## Backend (Бэкэнд и сервер-сайд)
-- Знание MVC архитектуры
+- Опытное знание MVC архитектуры
 - Опыт использования [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html)
+- Поверхностное знакомство с microservice архитектурой
 
 ### API (программный интерфейс приложения)
 - REST
@@ -56,10 +57,6 @@
 Опыт настройки [nginx](https://www.nginx.com/)
 
 Знакомство с [docker](https://www.docker.com/)
-
-Знание MVC архитектуры на сервер сайде.
-
-Некоторое понимание microservice архитектуры (не было возможности использовать на практике)
 
 8+ лет с ОС Linux. Опыт работы с IDE и [vim](https://neovim.io/)
 
