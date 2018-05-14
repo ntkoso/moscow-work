@@ -8,6 +8,7 @@
 - ES5.1, ES2015+, [TC39](https://tc39.github.io/ecma262/) proposals
 - Типизированный Javascript: [Typescript](https://www.typescriptlang.org/) и [Flow](https://flowtype.org)
 - [Babel](https://babeljs.io/) и [Webpack](https://webpack.js.org)
+- [Lerna](https://lernajs.io/)
 - Тесты ([Jest](https://facebook.github.io/jest/) и mocha + sinon)
 - Functional programming (FP) используя [Lodash](https://lodash.com/) или [Ramda](http://ramdajs.com)
 - Линтеры [Eslint](https://eslint.org) и [Prettier](https://prettier.io/)
@@ -54,9 +55,11 @@
 
 Опыт работы с [Semantic Versioning](https://semver.org/)
 
-Опыт настройки [nginx](https://www.nginx.com/)
+Знакомство с monorepo используя [Lerna](https://lernajs.io/)
 
 Знакомство с [docker](https://www.docker.com/)
+
+Опыт настройки [nginx](https://www.nginx.com/)
 
 8+ лет с ОС Linux. Опыт работы с IDE и [vim](https://neovim.io/)
 
