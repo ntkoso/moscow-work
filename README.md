@@ -33,7 +33,7 @@
 
 ### API (программный интерфейс приложения)
 - REST
-- GraphQL(https://graphql.org/)
+- [GraphQL](https://graphql.org/)
 
 ### Databases (базы данных)
 - ORM: [Bookshelf](http://bookshelfjs.org/), [knex](http://knexjs.org/), [Doctrine](https://www.doctrine-project.org/)
@@ -47,7 +47,7 @@
 
 ## Common (Общее)
 
-Опыт работы с [git](https://git-scm.com/) и github(https://github.com/)
+Опыт работы с [git](https://git-scm.com/) и [github](https://github.com/)
 
 Опыт работы с пакетными менеджерами ([npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian)))
 
