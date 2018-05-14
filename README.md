@@ -1,60 +1,61 @@
 
 # Fullstack (Node.js + React) разработчик.
-*Примерно 2 года опыта React.js и его экосистемы,
+*Несколько лет опыта с React.js и его экосистемы,
 до этого занимался классическим сервер сайдом на PHP и немного Ruby on Rails*
-
-
-
-### Типизированный Javascript (Typescript и Flow)
-*Flow используется Facebook'ом во всех их проектах
-Но экосистема начинает мигрировать на Typescript*
-
 
 ## Frontend
 ### Javascript
- - React
- - Redux
- - Redux-saga
- - Apollo-client (*React клиент для GraphQL*)
- - Babel
- - Webpack
- - Тесты (jest, mocha + sinon)
- - Functional programming (FP) используя lodash или ramda
+- ES5.1, ES2015+, [TC39](https://tc39.github.io/ecma262/) proposals
+- Типизированный Javascript: [Typescript](https://www.typescriptlang.org/) и [Flow](https://flowtype.org)
+- [Babel](https://babeljs.io/) и [Webpack](https://webpack.js.org)
+- Тесты ([jest](https://facebook.github.io/jest/) и mocha + sinon)
+- Functional programming (FP) используя [lodash](https://lodash.com/) или [ramda](http://ramdajs.com)
+- Линтеры [eslint](https://eslint.org) и [prettier](https://prettier.io/)
+- [React](http://reactjs.org)
+- [React-Router](https://reacttraining.com/react-router/)
+- [Redux](http://redux.js.org)
+- [Redux-saga](https://redux-saga.js.org/)
+- [Apollo-client](https://www.apollographql.com/client/) (*React клиент для GraphQL*)
 
 ### HTML5
 
 ### CSS
- - BEM
- - SCSS
- - CSSModules
- - CSS-in-JS (https://www.styled-components.com/ и https://emotion.sh/)
+- BEM
+- SCSS
+- [CSSModules](https://github.com/css-modules/css-modules)
+- CSS-in-JS ([Styled Components](https://www.styled-components.com/) и [Emotion](https://emotion.sh/))
 
 ## Backend:
+### Node.js
 - REST
-- GraphQL (https://graphql.org/)
-- Server side rendering
-- Express \ Koa (и другие middleware фреймворки)
+- [GraphQL](https://graphql.org/)
+- [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html)
+- Express/Koa (и другие middleware фреймворки)
 - ORM и SQL (mysql, postgres)
 
 #
 
-Опыт работы с git
+Опыт работы с [git](https://git-scm.com/) и github(https://github.com/)
 
-Опыт настройки nginx
+Опыт настройки [nginx](https://www.nginx.com/)
+
+Знакомство с [docker](https://www.docker.com/)
 
 Знание MVC архитектуры на сервер сайде.
 
 Некоторое понимание microservice архитектуры (не было возможности использовать на практике)
 
-8+ лет с ОС Linux
+8+ лет с ОС Linux. Опыт работы с IDE и [vim](https://neovim.io/)
 
+Знание Adobe Photoshop и [GIMP](https://gimp.org/)
 
 ### Свободное владение английским языком
-- Свободное чтение технической документации \ статей
+- Свободное чтение технической документации/статей
 - Свободное общение с зарубежными разработчиками, включая авторов библиотек
-- Возможность разбора новых патчей \ пуллреквестов \ вопросы в официальном дискорде и слаке
+- Возможность разбора новых патчей/пуллреквестов и решение вопросов в официальном дискорде и слаке
+- Понимание английского на уровне чтения популярной и классической литературы в оригинале
 
-Как хобби смотрю в сторону Rust (https://www.rust-lang.org)
-для интеграции WASM модулей на фронэнде и бэкэнде в будущем.
+Как хобби смотрю в сторону [Rust](https://www.rust-lang.org)
+для интеграции [WebAssembly](https://webassembly.org/) модулей на фронэнде и бэкэнде в будущем.
 
-28 лет. Одиночка. Живу в Кирове. Хочу переехать жить в Москву и буду благодарен за возможность работать с вами.
+Хочу переехать жить в Москву и буду благодарен за возможность работать с вами.
