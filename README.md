@@ -19,6 +19,7 @@
  - Babel
  - Webpack
  - Тесты (jest, mocha + sinon)
+ - Functional programming (FP) используя lodash или ramda
 
 ### HTML5
 
