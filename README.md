@@ -30,7 +30,7 @@
 
 ## Backend (Бэкэнд и сервер-сайд)
 - Опытное знание MVC архитектуры
-- Опыт использования [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html)
+- Опыт использования [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html) (в народе называется Isomorphic,  Universal или просто SSR)
 - Поверхностное знакомство с microservice архитектурой
 
 ### API (программный интерфейс приложения)
