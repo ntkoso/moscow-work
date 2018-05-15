@@ -51,7 +51,7 @@
 
 Опыт работы с [git](https://git-scm.com/) и [github](https://github.com/)
 
-Опыт работы с пакетными менеджерами ([npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian)))
+Опыт работы с пакетными менеджерами ([npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian)))
 
 Опыт работы с [Semantic Versioning](https://semver.org/)
 
