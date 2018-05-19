@@ -53,22 +53,15 @@
 - [Symfony](https://symfony.com/)
 
 ## Common (Общее)
-
-Опыт работы с [git](https://git-scm.com/) и [github](https://github.com/)
-
-Опыт работы с пакетными менеджерами ([npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian)))
-
-Опыт работы с [Semantic Versioning](https://semver.org/)
-
-Знакомство с monorepo используя [Lerna](https://lernajs.io/)
-
-Знакомство с [docker](https://www.docker.com/)
-
-Опыт настройки [nginx](https://www.nginx.com/)
-
-8+ лет с ОС Linux. Опыт работы с IDE и [vim](https://neovim.io/)
-
-Знание Adobe Photoshop и [GIMP](https://gimp.org/)
+- Опыт работы с [git](https://git-scm.com/), [github](https://github.com/) и bitbucket(https://bitbucket.org)
+- Опыт работы с пакетными менеджерами: [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian))
+- Опыт работы с [Semantic Versioning](https://semver.org/)
+- Знакомство с monorepo используя [Lerna](https://lernajs.io/)
+- Знакомство с [docker](https://www.docker.com/)
+- Опыт настройки [nginx](https://www.nginx.com/)
+- 8+ лет с ОС Linux. 
+- Опыт работы с редакторами и IDE: [vim](https://neovim.io/), [VSCode](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/) / [PHPStorm](https://www.jetbrains.com/phpstorm)
+- Знание Adobe Photoshop и [GIMP](https://gimp.org/)
 
 ### Свободное владение английским языком
 - Свободное чтение технической документации/статей
@@ -76,7 +69,7 @@
 - Возможность разбора новых патчей/пуллреквестов и решение вопросов в официальном дискорде или слаке
 - Понимание английского на уровне чтения/просмотра популярной и классической литературы/кинематографии в оригинале
 
-### Хобби:
+### Хобби
 - Общение с людьми из разных стран на тему веб-разработки, политики и других интересов
 - Чтение свежей зарубежной художественной литературы
 - Прослушивание музыки (особенно [Synthwave](https://www.last.fm/ru/tag/synthwave/artists)) и некоторых подкастов
