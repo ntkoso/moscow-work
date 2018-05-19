@@ -16,7 +16,7 @@
 - Линтеры [Eslint](https://eslint.org) и [Prettier](https://prettier.io/)
 - Компайлер [Babel](https://babeljs.io/) и бандлер [Webpack](https://webpack.js.org) (включая код-сплиттинг)
 - [Lerna](https://lernajs.io/)
-- Тестирование: [Jest](https://facebook.github.io/jest/) (включая снапшоты), [Enzyme](https://airbnb.io/enzyme/) / [React tesing library](https://github.com/kentcdodds/react-testing-library), [mocha](https://mochajs.org/), [sinon](https://github.com/sinonjs/sinon), [chai](http://www.chaijs.com/).
+- Тестирование: [Jest](https://facebook.github.io/jest/) (включая снапшоты), [Enzyme](https://airbnb.io/enzyme/) / [React tesing library](https://github.com/kentcdodds/react-testing-library), [mocha](https://mochajs.org/), [sinon](http://sinonjs.org/), [chai](http://www.chaijs.com/).
 
 ### Javascript Frameworks (Javascript Фреймворки)
 - [React](http://reactjs.org) + [React Router](https://reacttraining.com/react-router/), [React Loadable](https://github.com/jamiebuilds/react-loadable), [React Portal](https://github.com/tajo/react-portal) и другие пакеты...
