@@ -14,7 +14,7 @@
 
 ### Development and test tools (Интструменты для разработки и тестирования)
 - Линтеры [Eslint](https://eslint.org) и [Prettier](https://prettier.io/)
-- Компайлер [Babel](https://babeljs.io/) и бандлер [Webpack](https://webpack.js.org) (включая код-сплиттинг)
+- Транспайлер [Babel](https://babeljs.io/) и бандлер [Webpack](https://webpack.js.org) (включая код-сплиттинг)
 - [Lerna](https://lernajs.io/)
 - Тестирование: [Jest](https://facebook.github.io/jest/) (включая снапшоты), [Enzyme](https://airbnb.io/enzyme/) / [React tesing library](https://github.com/kentcdodds/react-testing-library), [mocha](https://mochajs.org/), [sinon](http://sinonjs.org/), [chai](http://www.chaijs.com/).
 
