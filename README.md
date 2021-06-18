@@ -1,11 +1,10 @@
 
-# Fullstack (Node.js + React) разработчик
-*Несколько лет опыта с React.js и его экосистемой,
+# Senior Frontend (Node.js + React) разработчик
+*5+ с React.js и его экосистемой,
 до этого занимался классическим сервер сайдом на PHP и немного Ruby on Rails*
 
 ## Frontend
 - Знание ООП и [ФП](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-- Опыт работы с AJAX
 
 ### Javascript programming language (Язык программирования Javascript)
 - Javascript версий: ES5.1, ES2015+ (неофициально ES6), [TC39](https://tc39.github.io/ecma262/) proposals
@@ -31,12 +30,12 @@
 - BEM
 - SCSS
 - [CSSModules](https://github.com/css-modules/css-modules)
-- CSS-in-JS ([Styled Components](https://www.styled-components.com/) и [Emotion](https://emotion.sh/))
+- CSS-in-JS ([Styled Components](https://www.styled-components.com/), [Emotion](https://emotion.sh/), [Linaria](https://github.com/callstack/linaria))
 
 ## Backend
 - Опытное знание MVC архитектуры
 - Опыт использования [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html) (в народе называется Isomorphic,  Universal или просто SSR)
-- Поверхностное знакомство с microservice архитектурой
+- Поверхностный опыт работы с microservice архитектурой
 
 ### API (Программный Интерфейс Приложения)
 - REST
@@ -53,14 +52,21 @@
 - [Symfony](https://symfony.com/)
 
 ## Common (Общее)
-- Опыт работы с [git](https://git-scm.com/), [github](https://github.com/) и [bitbucket](https://bitbucket.org)
-- Опыт работы с пакетными менеджерами: [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian))
-- Опыт работы с [Semantic Versioning](https://semver.org/)
-- Знакомство с monorepo используя [Lerna](https://lernajs.io/)
-- Знакомство с [docker](https://www.docker.com/)
-- Опыт настройки [nginx](https://www.nginx.com/)
+
+### TeamLead (Командная работа и управление командой)
+- Опыт проведения собеседований и подбора сотрудников на frontend.
+- Опыт менторства Junior и Middle разработчиков на frontend.
+- Опыт работы как по Waterfall, так и Scrum Agile. Декомпозиция, оценка и тд.
+
+### Technical (Техническое) 
+- [git](https://git-scm.com/) ([github](https://github.com/), [gitlab](https://gitlab.com) и [bitbucket](https://bitbucket.org))
+- пакетные менеджеры: [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian))
+- [Semantic Versioning](https://semver.org/)
+- monorepo используя [Lerna](https://lernajs.io/) и yarn
+- [docker](https://www.docker.com/)
+- Опыт настройки реверс прокси для микросервисов \ монолитов через [nginx](https://www.nginx.com/) и [traefik](https://traefik.io/traefik/)
 - 8+ лет с ОС Linux. 
-- Опыт работы с редакторами и IDE: [vim](https://neovim.io/), [VSCode](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/) / [PHPStorm](https://www.jetbrains.com/phpstorm)
+- Использование редакторов и IDE: [vim](https://neovim.io/), [VSCode](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/) / [PHPStorm](https://www.jetbrains.com/phpstorm)
 - Знание Adobe Photoshop и [GIMP](https://gimp.org/)
 
 ### Свободное владение английским языком
