@@ -54,9 +54,11 @@
 ## Common (Общее)
 
 ### TeamLead (Командная работа и управление командой)
+- Опыт работы как по Waterfall, так и Scrum Agile. Декомпозиция, оценка и тд.
+- Code Review
 - Опыт проведения собеседований и подбора сотрудников на frontend.
 - Опыт менторства Junior и Middle разработчиков на frontend.
-- Опыт работы как по Waterfall, так и Scrum Agile. Декомпозиция, оценка и тд.
+
 
 ### Technical (Техническое) 
 - [git](https://git-scm.com/) ([github](https://github.com/), [gitlab](https://gitlab.com) и [bitbucket](https://bitbucket.org))
