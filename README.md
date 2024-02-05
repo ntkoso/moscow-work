@@ -61,22 +61,24 @@
 
 ## Common (Общее)
 
-### TeamLead (Командная работа)
-- Опыт работы как по Waterfall, так и Agile Спринтами. Декомпозиция, оценка и тд.
-- Опыт Code Review и менторства Junior и Middle разработчиков на frontend
-- Опыт проведения собеседований и подбора сотрудников на frontend.
-
 ### Technical (Техническое) 
 - Опыт работы с CI\CD пайплайном и релизами.
 - [git](https://git-scm.com/) ([github](https://github.com/), [gitlab](https://gitlab.com) и [bitbucket](https://bitbucket.org))
+- Monorepo и Polyrepo
+- Gitflow c [Semantic Versioning](https://semver.org/)
+- Trunk Development
 - пакетные менеджеры: [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com), [composer](https://getcomposer.org/), [gems](https://rubygems.org/), [cargo](https://doc.rust-lang.org/stable/cargo/) и [apt](https://en.wikipedia.org/wiki/APT_(Debian))
-- [Semantic Versioning](https://semver.org/)
-- monorepo структура репозитория
 - [Kubernetes](https://kubernetes.io/) и [docker](https://www.docker.com/)
 - [Jenkins](https://www.jenkins.io/) и опыт имплементации Jenkinsfile на Groovy
 - Опыт настройки реверс прокси для микросервисов \ монолитов через [nginx](https://www.nginx.com/) и [traefik](https://traefik.io/traefik/)
 - 10+ лет с ОС Linux. 
 - Использование редакторов и IDE: [vim](https://neovim.io/), [VSCode](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/) / [PHPStorm](https://www.jetbrains.com/phpstorm)
+
+### TeamLead and TeamWork (Командная работа)
+- Декомпозиция задач на Эпики, Пользовательские истории и Задачи на основе требований бизнеса и дизайна.
+- Опыт работы как по Waterfall, так и Agile Спринтами.
+- Опыт Code Review и менторства Junior и Middle разработчиков на frontend
+- Опыт проведения собеседований и подбора сотрудников на frontend.
 
 ### Свободное владение английским языком
 - Свободное чтение технической документации/статей
