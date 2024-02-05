@@ -40,8 +40,10 @@
 
 ## Backend
 - Опытное знание MVC архитектуры
-- Опыт использования [Server-Side Rendering](https://reactjs.org/docs/react-dom-server.html) (в народе называется Isomorphic,  Universal или просто SSR)
+- Опыт использования SSR на реакте
 - Опыт работы с microservice архитектурой
+- Опыт работы с PHP, Ruby On Rails.
+- Поверхностный опыт с Lua.
 
 ### API (Программный Интерфейс Приложения)
 - REST
